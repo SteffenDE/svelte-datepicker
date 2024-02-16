@@ -1079,7 +1079,7 @@
 </svelte:head>
 
 <style>
-  :root {
+  :host {
     /**
      * Common
      */
